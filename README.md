@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-Author - vanshika parashar(GLA).
+Author - vanshika parashar(GLA university).
